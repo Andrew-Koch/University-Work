@@ -1,5 +1,5 @@
 
-This course focused on teaching Network Security Monitoring practices.
+This course focused on teaching Network Security Monitoring practices.  
 The following software was used and taught throughout this course:
 * Firewall
     * PfSense
